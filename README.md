@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @JamesHoskin
-- 👀 I’m interested in developing my skills as an entry level software developer
-- 🌱 I’m currently learning Java, Javascript, HTML/CSS and SQL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact: 
+- 👀 I’m interested in developing my skills as a junior level software developer.
+- 🌱 I’m currently learning Java, Python, Flask, Javascript, Node.js, HTML/CSS and MySQL.
+- 📫 How to reach me: jameshoskin1@live.co.uk
+
 
 <!---
 JamesHoskin/JamesHoskin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
